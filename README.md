@@ -72,7 +72,7 @@ sudo apt install -y aircrack-ng network-manager iw iproute2 python3
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/<your-username>/wifi-hacking-tools-suite.git
+git clone https://github.com/whoami592/Wi-Fi-Hacking-Tools-Suite.git
 cd wifi-hacking-tools-suite
 chmod +x wifi_hacking_tools_suite.py
 ```
